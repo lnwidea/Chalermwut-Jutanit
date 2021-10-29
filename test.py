@@ -1,3 +1,2 @@
-print("Hello World!")
-print("ได้แล้วโว้ย")
-print("test")
+
+print(str('listData').strip('[]').replace('\'', ''))
